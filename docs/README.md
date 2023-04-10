@@ -1,0 +1,2 @@
+This project is created in order to make a price tracker for stores other than Amazon (where Keepa already makes a great job, thus not including Amazon support in this project, at least in its early stages). Mainly focus for Mercado Libre the addition of other stores should not be a problem taking in consideration how the project is structure.
+The idea is for the application to be hosted in a docker container in a raspberry pi zero but it should run with no problems even outside a docker container.
